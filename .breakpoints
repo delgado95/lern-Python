@@ -1,10 +1,18 @@
 {
   "files": {
+    "HelloWord/main.py": [
+      {
+        "id": "d0022326-16c7-45ce-b76a-8d678140c530",
+        "line": 1,
+        "version": 14,
+        "index": 0
+      }
+    ],
     "soma.py": [
       {
         "id": "ef12a045-4296-4c71-b793-8bd3e7f2f072",
         "line": 1,
-        "version": 0,
+        "version": 2,
         "index": 0
       }
     ]
